@@ -6,6 +6,18 @@
             "Description": "Fathom Hub is a lot more than scripts.", 
             "Picture": "https://i.ytimg.com/vi/_nnjyjwhUGw/maxresdefault.jpg"
         },
+        "Kolgie YBA": { 
+            "Name": "Fathom Hub", 
+            "source": "https://cdn.discordapp.com/attachments/756137943768236133/776898424275468348/Dex_Explorer_V2.txt", 
+            "Description": "Fathom Hub is a lot more than scripts.", 
+            "Picture": "https://cdn.cheat.gg/images/60969627d0ee0.webp"
+        },
+        "Grand Piece Online": { 
+            "Name": "Fathom Hub", 
+            "source": "https://cdn.discordapp.com/attachments/756137943768236133/776898424275468348/Dex_Explorer_V2.txt", 
+            "Description": "Fathom Hub is a lot more than scripts.", 
+            "Picture": "https://cdn.cheat.gg/images/60969627d0ee0.webp"
+        },
         "Dark Dex V4": { 
             "Name": "Dex V4", 
             "source": "https://cdn.discordapp.com/attachments/756137943768236133/776898424275468348/Dex_Explorer_V2.txt", 
@@ -22,7 +34,7 @@
             "Name": "Cmd X", 
             "source": "https://cdn.discordapp.com/attachments/756137943768236133/776898424275468348/Dex_Explorer_V2.txt", 
             "Description": "An admin script with over 600 commands!", 
-            "Picture": "https://imgur.com/t8BF4Th"
+            "Picture": "https://repository-images.githubusercontent.com/266081512/683f2880-dd3b-11ea-94c4-f86f39ce4fe8"
         }
     }
 }
