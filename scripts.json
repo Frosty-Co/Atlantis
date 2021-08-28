@@ -2,36 +2,42 @@
     "scriptHub": {
          "Fathom Hub": { 
             "Name": "Fathom Hub", 
+            "Tag": "Utility",
             "source": "https://cdn.discordapp.com/attachments/756137943768236133/776898424275468348/Dex_Explorer_V2.txt", 
             "Description": "Fathom Hub is a lot more than scripts.", 
             "Picture": "https://i.ytimg.com/vi/_nnjyjwhUGw/maxresdefault.jpg"
         },
         "Kolgie YBA": { 
             "Name": "Your Bizarre Adventure", 
+            "Tag": "Utility Auto-Farm Auto Farm",
             "source": "https://cdn.discordapp.com/attachments/756137943768236133/776898424275468348/Dex_Explorer_V2.txt", 
             "Description": "Best Script for Your Bizarre Adventure!", 
             "Picture": "https://cdn.cheat.gg/images/60969627d0ee0.webp"
         },
         "Grand Piece Online": { 
             "Name": "Grand Piece Online", 
+            "Tag": "Utility Auto-Farm Auto Farm",
             "source": "https://cdn.discordapp.com/attachments/756137943768236133/776898424275468348/Dex_Explorer_V2.txt", 
             "Description": "Auto-farm script for GPO!", 
             "Picture": "https://robloxscripts.com/wp-content/uploads/2020/11/unknown-8.png"
         },
         "Dark Dex V4": { 
             "Name": "Dex V4", 
+            "Tag": "Utility",
             "source": "https://cdn.discordapp.com/attachments/756137943768236133/776898424275468348/Dex_Explorer_V2.txt", 
             "Description": "A Roblox Explorer made for Lua Developers.", 
             "Picture": "https://i.gyazo.com/b89d5c8f16837504f68d228333a0350b.png"
         },
         "Remote Spy": { 
             "Name": "Remote Spy", 
+            "Tag": "Utility",
             "source": "https://cdn.discordapp.com/attachments/756137943768236133/776898424275468348/Dex_Explorer_V2.txt", 
             "Description": "Remote spy get's every active Remote Event.", 
             "Picture": "https://devforum.roblox.com/uploads/default/original/4X/4/3/c/43c26cbe9ebfd53211de469420aa99330bdb5fd1.png"
         },
         "Cmd X": { 
             "Name": "Cmd X", 
+            "Tag": "Utility FE Filtered Enabled",
             "source": "https://cdn.discordapp.com/attachments/756137943768236133/776898424275468348/Dex_Explorer_V2.txt", 
             "Description": "An admin script with over 600 commands!", 
             "Picture": "https://repository-images.githubusercontent.com/266081512/683f2880-dd3b-11ea-94c4-f86f39ce4fe8"
