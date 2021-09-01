@@ -8,14 +8,14 @@
             "Picture": "https://i.ytimg.com/vi/_nnjyjwhUGw/maxresdefault.jpg"
         },
         "Kolgie YBA": { 
-            "Name": "Your Bizarre Adventure", 
+            "Name": "Kolgie's YBA Script", 
             "Tag": "Utility, Auto-Farm, Auto Farm",
             "source": "https://cdn.discordapp.com/attachments/756137943768236133/776898424275468348/Dex_Explorer_V2.txt", 
             "Description": "Best Script for Your Bizarre Adventure!", 
             "Picture": "https://cdn.cheat.gg/images/60969627d0ee0.webp"
         },
         "Grand Piece Online": { 
-            "Name": "Grand Piece Online", 
+            "Name": "GPO", 
             "Tag": "Utility, Auto-Farm, Auto Farm",
             "source": "https://cdn.discordapp.com/attachments/756137943768236133/776898424275468348/Dex_Explorer_V2.txt", 
             "Description": "Auto-farm script for GPO!", 
@@ -41,6 +41,20 @@
             "source": "https://cdn.discordapp.com/attachments/756137943768236133/776898424275468348/Dex_Explorer_V2.txt", 
             "Description": "An admin script with over 600 commands!", 
             "Picture": "https://repository-images.githubusercontent.com/266081512/683f2880-dd3b-11ea-94c4-f86f39ce4fe8"
+        },
+        "Owl Hub": { 
+            "Name": "Owl Hub", 
+            "Tag": "Utility, ESP, Aimbot",
+            "source": "https://cdn.discordapp.com/attachments/756137943768236133/776898424275468348/Dex_Explorer_V2.txt", 
+            "Description": "It is compatible to 30+ games on Roblox! Right Now.", 
+            "Picture": "https://gamingpirate.com/wp-content/uploads/2021/01/owl-hub1.jpg"
+        },
+        "Dark Hub": { 
+            "Name": "Dark Hub", 
+            "Tag": "Utility, ESP, Aimbot",
+            "source": "https://cdn.discordapp.com/attachments/756137943768236133/776898424275468348/Dex_Explorer_V2.txt", 
+            "Description": "Owl Hub has 30+, Dark hub has 40+ compatible games!", 
+            "Picture": "https://scriptsrbx.com/wp-content/uploads/2021/01/image-7.png"
         }
     }
 }
