@@ -70,12 +70,26 @@
             "Description": "Best script for Jailbreak, alot of configurations.", 
             "Picture": "https://rbxscript.com/images/_URirTnuoPv-image.png"
         },
+        "JailBreak Script 2": { 
+            "Name": "Vynixu - Jailbreak", 
+            "Tag": "Utility, ESP, Auto-Farm",
+            "source": "https://cdn.discordapp.com/attachments/756137943768236133/776898424275468348/Dex_Explorer_V2.txt", 
+            "Description": "OP GUI Script for Jailbreak!", 
+            "Picture": "https://rbxscript.com/images/_URirTnuoPv-image.png"
+        },
         "MM2 Script 1": { 
             "Name": "Vynixu - MM2", 
             "Tag": "Utility, ESP, Auto-Farm",
             "source": "https://cdn.discordapp.com/attachments/756137943768236133/776898424275468348/Dex_Explorer_V2.txt", 
             "Description": "Featuring CUSTOM ESP, GRAB GUN, TELEPORT to ANYONE, noclip, KILL ALL (murderer), fly, set walkspeed, set jumppower, TP TO MURDERER & MANY MORE!", 
-            "Picture": "https://cdn.cheat.gg/images/5fcd30105c615.jpg"
+            "Picture": "https://i.imgur.com/PPYdiCQ.png"
+        },
+        "MM2 Script 2": { 
+            "Name": "Eclipse - MM2", 
+            "Tag": "Utility, ESP, Auto-Farm",
+            "source": "https://cdn.discordapp.com/attachments/756137943768236133/776898424275468348/Dex_Explorer_V2.txt", 
+            "Description": "OP & Stable Script made by: Doggo#0931", 
+            "Picture": "https://rscripts.net/images/eclipse%20mm2.webp"
         }
     }
 }
